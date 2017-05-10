@@ -1,5 +1,5 @@
 # llg-julia
-Last letter game benchmark implemented with Julia
+A last letter game benchmark implemented in Julia
 
 ## How to run
 Clone repository recursively:
