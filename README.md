@@ -8,7 +8,7 @@ Clone repository recursively:
 git clone --recursive https://github.com/LLGAssessment/llg-julia.git
 ```
 
-Run test and measure it's time:
+Run test and measure its time:
 
 ```bash
 cd llg-julia
